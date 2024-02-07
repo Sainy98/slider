@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 4vmin;
+    gap: 5vmin;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -23,7 +23,7 @@ body {
 
 #image-track>.image {
     width: 70vmin;
-    height: 100vmin;
+    height: 80vmin;
     object-fit: cover;
     object-position: center;
 }
